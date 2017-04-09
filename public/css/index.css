@@ -1,0 +1,48 @@
+body,div,textarea {
+    padding: 0;
+    margin: 0;
+}
+#title{
+    display: block;
+    width: 500px;
+    margin: 10px auto;
+}
+#mark{
+    display: block;
+    resize: none;
+    width: 500px;
+    height: 300px;
+    margin: 10px auto;
+    /*overflow-y: scroll;*/
+    /*overflow-x: hidden;*/
+    background-color: antiquewhite;
+}
+#cover{
+    width: 500px;
+    height: 300px;
+    margin: 10px auto;
+    border: 1px solid black;
+    overflow: scroll;
+}
+h1,h2,h3,h4,h5,h6{
+    color: red;
+    padding-left: 20px;
+}
+#post{
+    width: 200px;
+    height: 50px;
+    display: block;
+    margin: 10px auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+pre>code{
+    background-color: aquamarine;
+}
+/*#cover p{*/
+    /*border-left:3px solid gray;*/
+    /*padding: 0 0 0 3px;*/
+    /*!*padding-left: 3px;*!*/
+
+/*}*/
