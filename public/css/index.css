@@ -24,10 +24,7 @@ body,div,textarea {
     border: 1px solid black;
     overflow: scroll;
 }
-h1,h2,h3,h4,h5,h6{
-    color: red;
-    padding-left: 20px;
-}
+
 #post{
     width: 200px;
     height: 50px;
@@ -37,12 +34,3 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 10px;
 }
 
-pre>code{
-    background-color: aquamarine;
-}
-/*#cover p{*/
-    /*border-left:3px solid gray;*/
-    /*padding: 0 0 0 3px;*/
-    /*!*padding-left: 3px;*!*/
-
-/*}*/
